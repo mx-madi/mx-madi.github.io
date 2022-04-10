@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Madi is a teacher and an artist. The purpose of this website is to be an online portfolio for Madi's various endeavors and adventures. Feel free to click around starting at the home page. For further information or to discussion a collaboration, you can contact Madi from the Contact page.
