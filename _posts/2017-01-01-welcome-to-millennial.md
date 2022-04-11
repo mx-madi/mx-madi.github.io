@@ -4,7 +4,7 @@ title: "Teaching"
 author: "Madi Hansen"
 categories: documentation
 tags: [documentation,sample]
-image: cuba-1.jpg
+image: signal-2022-04-10-201650_001.jpeg
 ---
 
 Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
