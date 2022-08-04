@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Interesting Facts
-category: facts
-permalink: /facts
+title: Teaching
+category: teaching
+permalink: /teaching
 ---
